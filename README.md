@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silvio Sodre
 - 👀 I’m interested in Python and Statistical.
-- 🌱 I’m currently learning  Python  - Data Manipulation with pandas
+- 🌱 I’m currently learning  Python  - Joining Data with pandas and SQL
 - 📫 How to reach me www.linkedin.com/in/silviosodre
 
 <!---
