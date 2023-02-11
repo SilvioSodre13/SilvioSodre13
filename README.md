@@ -1,7 +1,7 @@
 - # 💫About Me :
 - 👋 Olá, Eu sou o Silvio Sodré
-- 👀 Eu tenho interesse por Python e Estatística.
-- 🌱 Atualmente estou aprendendo Python e SQL ambos com com foco em análise de dados.
+- 👀 Eu tenho interesse por Analise de Dados e Estatística.
+- 🌱 Atualmente participo da Formação Cientista de Dados na Data Science Academy.
 
 
 ## 🌐Socials
