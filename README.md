@@ -1,7 +1,7 @@
 - # 💫About Me :
 - 👋 Olá, Eu sou o Silvio Sodré
 - 👀 Eu tenho interesse por Analise de Dados e Estatística.
-- 🌱 Atualmente participo da Formação Cientista de Dados na Data Science Academy.
+- 🌱 Atualmente participo da Formação Cientista de Dados na Data Science Academy e comecei a usar Plataforma da DIO para fazer Bootcamps.
   
 
 
